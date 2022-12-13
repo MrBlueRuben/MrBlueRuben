@@ -4,10 +4,10 @@ Find me:
   [LinkedIn](https://www.linkedin.com/in/rubensanchezalvarez/)
 
 Projects:
-  [SportsIn](https://www.sportsin.me/)
+ [SportsIn](https://www.sportsin.me/)
  
- Other projects:
- * [Troopl](https://troopl.com/sanchezalvarezruben) 
+ Porfolio Other projects:
+ [Troopl](https://troopl.com/sanchezalvarezruben) 
   
 
 - 👀 I’m interested in code, wargames and reading
