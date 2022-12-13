@@ -1,4 +1,4 @@
-👋 Hi, I’m @MrBlueRuben. Full stack developer from Madrid, Spain. Le Wagon #1045
+👋 Hi, I’m @MrBlueRuben. Junior Full stack developer from Madrid, Spain. Le Wagon #1045
 
 Find me:
   [LinkedIn](https://www.linkedin.com/in/rubensanchezalvarez/)
@@ -6,24 +6,14 @@ Find me:
 Projects:
  [SportsIn](https://www.sportsin.me/)
  
- Porfolio Other projects:
+ Portfolio other projects:
  [Troopl](https://troopl.com/sanchezalvarezruben) 
   
 
 - 👀 I’m interested in code, wargames and reading
 - 🌱 I’m currently learning JS and React.
-
-<h1 align="center">Hi 👋, I'm Rubén Sánchez</h1>
-<h3 align="center">Junior Full Stack developer from Madrid Spain</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrblueruben" alt="mrblueruben" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [troopl.com/sanchezalvarezruben](troopl.com/sanchezalvarezruben)
-
 - 📫 How to reach me **sanchez.alvarez.ruben@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/rubensanchezalvarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubensanchezalvarez" height="30" width="40" /></a>
 </p>
 
