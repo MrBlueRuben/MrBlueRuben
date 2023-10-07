@@ -3,12 +3,12 @@
 Find me:
   [LinkedIn](https://www.linkedin.com/in/rubensanchezalvarez/)
   
-Projects:
- [CV](https://mrblueruben.netlify.app/)
+Projects:  
+   [CV](https://mrblueruben.netlify.app/)
   
- [Filmoteca](https://filmoteca.herokuapp.com/)
+   [Filmoteca](https://filmoteca.herokuapp.com/)
   
- [SportsIn](https://www.sportsin.me/)
+   [SportsIn](https://www.sportsin.me/)
  
  Portfolio other projects:
  [Troopl](https://troopl.com/sanchezalvarezruben) 
