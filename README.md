@@ -5,7 +5,9 @@ Find me:
 
 Projects:
  [CV](https://mrblueruben.netlify.app/)
+ 
  [Filmoteca](https://filmoteca.herokuapp.com/)
+ 
  [SportsIn](https://www.sportsin.me/)
  
  Portfolio other projects:
